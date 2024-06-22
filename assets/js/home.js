@@ -64,7 +64,6 @@ function HandleSpotLight(){
           <h5 class="card-title text-center text-dark">${e.Title}</h5>
         </div>
         <hr class="divider divider-dark" />
-        <div class="card-footer text-center text-dark">${e.price}</div>
       </div>
     </div>`
     spotlighs.push(card);
