@@ -1,7 +1,7 @@
 function HandlePage() {
   HandleSliders();
   HandleSpotLight();
-  HandleFAQ();
+  // HandleFAQ();
   handleDarkMode();
   setTimeout(() => {
     $('.loading-container').hide();
